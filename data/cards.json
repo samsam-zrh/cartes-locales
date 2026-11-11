@@ -1,0 +1,434 @@
+[
+  {
+    "id": "demo-01",
+    "title": "Balise des brumes",
+    "description": "Une lumière imaginaire guide les voyageurs dans une vallée noyée de brouillard.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "C",
+    "atk": 100,
+    "def": 120,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-02",
+    "title": "Boussole de verre",
+    "description": "Une aiguille transparente indique le chemin des ateliers oubliés.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "PC",
+    "atk": 137,
+    "def": 173,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-03",
+    "title": "Carnet du veilleur",
+    "description": "Un carnet fictif rassemble les observations d’un gardien nocturne.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "R",
+    "atk": 174,
+    "def": 226,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-04",
+    "title": "Clé des jardins",
+    "description": "Une petite clé de cuivre ouvre une serre inventée.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "SR",
+    "atk": 211,
+    "def": 279,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-05",
+    "title": "Pierre des marées",
+    "description": "Un galet imaginaire change de couleur au rythme des vagues.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "UR",
+    "atk": 248,
+    "def": 332,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-06",
+    "title": "Tour du silence",
+    "description": "Une tour isolée abrite la bibliothèque d’un village fictif.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "L",
+    "atk": 285,
+    "def": 385,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-07",
+    "title": "Pont de nacre",
+    "description": "Un pont imaginaire relie deux îles au-dessus des nuages.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "C",
+    "atk": 322,
+    "def": 438,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-08",
+    "title": "Horloge de mousse",
+    "description": "Une horloge oubliée dans un jardin ne sonne qu’au printemps.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "PC",
+    "atk": 359,
+    "def": 491,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-09",
+    "title": "Cerf-volant du nord",
+    "description": "Un cerf-volant inventé transporte les messages d’un observatoire.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "R",
+    "atk": 396,
+    "def": 544,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-10",
+    "title": "Fontaine des lucioles",
+    "description": "Une fontaine fictive s’illumine lorsque tombe la nuit.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "SR",
+    "atk": 433,
+    "def": 597,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-11",
+    "title": "Atelier des saisons",
+    "description": "Des artisans imaginaires y fabriquent les couleurs des feuilles.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "UR",
+    "atk": 470,
+    "def": 650,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-12",
+    "title": "Bateau des dunes",
+    "description": "Une embarcation de fiction glisse sur les collines de sable.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "L",
+    "atk": 507,
+    "def": 703,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-13",
+    "title": "Lanterne du passage",
+    "description": "Une lanterne inventée éclaire un ancien sentier forestier.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "C",
+    "atk": 544,
+    "def": 756,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-14",
+    "title": "Carte des vents",
+    "description": "Une carte fictive dessine les mouvements des nuages.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "PC",
+    "atk": 581,
+    "def": 809,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-15",
+    "title": "Refuge des étoiles",
+    "description": "Un petit refuge imaginaire accueille les observateurs du ciel.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "R",
+    "atk": 618,
+    "def": 862,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-16",
+    "title": "Jardin suspendu",
+    "description": "Des plantes de fiction poussent sur une terrasse volante.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "SR",
+    "atk": 655,
+    "def": 915,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-17",
+    "title": "Moulin de cuivre",
+    "description": "Un moulin inventé transforme la brise en musique.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "UR",
+    "atk": 692,
+    "def": 968,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-18",
+    "title": "Coffret des pluies",
+    "description": "Un coffret imaginaire conserve le souvenir des averses.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "L",
+    "atk": 729,
+    "def": 141,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-19",
+    "title": "Sentier des miroirs",
+    "description": "Un chemin fictif reflète les couleurs des paysages voisins.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "C",
+    "atk": 766,
+    "def": 194,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-20",
+    "title": "Phare des collines",
+    "description": "Un phare imaginaire veille sur une mer de champs.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "PC",
+    "atk": 803,
+    "def": 247,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-21",
+    "title": "Sablier de minuit",
+    "description": "Un sablier de fiction compte les instants entre deux rêves.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "R",
+    "atk": 840,
+    "def": 300,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-22",
+    "title": "Bibliothèque mobile",
+    "description": "Une bibliothèque inventée voyage sur une grande roue de bois.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "SR",
+    "atk": 877,
+    "def": 353,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-23",
+    "title": "Serre de cristal",
+    "description": "Une serre imaginaire protège les fleurs d’un hiver sans fin.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "UR",
+    "atk": 914,
+    "def": 406,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  },
+  {
+    "id": "demo-24",
+    "title": "Port des nuages",
+    "description": "Un port fictif accueille les navires des récits du soir.",
+    "image": "",
+    "wikiUrl": "",
+    "rarity": "L",
+    "atk": 951,
+    "def": 459,
+    "qScore": null,
+    "views": null,
+    "source": {
+      "observed": false,
+      "contentOrigin": "original fictional demo",
+      "statsOrigin": "original demo arithmetic v1",
+      "createdAt": "2026-11-05"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="fr">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Démo indépendante de collection de cartes fictives, en local."><title>Cartes locales</title><link rel="icon" href="data:,"><link rel="stylesheet" href="/style.css"><script type="module" src="/app.js"></script></head>
+<body>
+<a class="skip" href="#content">Aller au contenu</a>
+<header><a class="brand" href="/">◇ Cartes locales <small>démo indépendante</small></a><label>Joueur local <select id="player"><option value="1">Explorateur</option><option value="2">Atlas</option><option value="3">Nova</option></select></label><p id="balance">Connexion…</p></header>
+<nav aria-label="Navigation principale"><button data-page="packs" aria-current="page">Paquets</button><button data-page="collection">Collection</button><button data-page="achievements">Succès</button></nav>
+<main id="content"><p class="eyebrow">Un petit monde à collectionner</p><h1 id="heading" tabindex="-1">Ouvrir un paquet</h1><p id="notice" role="status" aria-live="polite"></p><button id="retry" hidden>Réessayer la connexion</button>
+<section id="packs"><div class="pack-panel"><div class="pack-art" aria-hidden="true">◇<span>24 récits imaginaires</span></div><div><h2>Cinq cartes, une découverte</h2><p>Des lieux et des objets fictifs, à retrouver dans votre collection.</p><p id="stock"></p><button class="primary" id="open">Ouvrir un paquet</button><button id="refill">Recharger gratuitement</button><p class="muted">Démo locale · aucun achat</p></div></div><div id="draw" class="grid" aria-label="Cartes du dernier paquet"></div></section>
+<section id="collection" hidden><div class="filters"><label>Rechercher <input id="search" type="search" placeholder="Un titre…"></label><label>Rareté <select id="rarity"><option value="">Toutes</option><option>C</option><option>PC</option><option>R</option><option>SR</option><option>UR</option><option>L</option></select></label></div><p id="count"></p><div id="cards" class="grid"></div></section>
+<section id="achievements" hidden><p>Les récompenses restent dans cette démo.</p><div id="rewards" class="rewards"></div></section>
+</main><footer>Prototype en cours · données fictives · sauvegarde sur ce Mac</footer>
+<dialog id="detail"><form method="dialog"><button aria-label="Fermer les détails">Fermer</button></form><div id="detail-body"></div></dialog>
+</body></html>
